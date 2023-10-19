@@ -1,0 +1,18 @@
+body{
+    font-family: sans-serif;
+    font-size: 12pt;
+    background: #EEE;
+}
+
+header{
+    text-align: center;
+}
+
+main{
+    width: 800px;
+    margin: 0 auto 0 auto;
+    background: #FFF;
+    padding: 10px;
+    border: 1px solid #BBB;
+    border-radius: 5px;
+}
