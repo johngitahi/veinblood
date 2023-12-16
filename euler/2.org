@@ -1,0 +1,25 @@
+* This is me first encountering Org Mode
+** So now I want to see how it works
+*** Is it a markup language, how different is it from
+**** Markdown and markless
+
+- This is a list in org mode
+  i find lists to be fun ways to store data
+
+1. Lists are fun, ordered ones are too fun
+
+[[file:./1.lisp]][Euler Solution Code 1]
+
+* TODO Make awesome fires
+* DONE Attempted to use Org Mode
+  CLOSED: [10:04p.m]
+
+* TODO Schedule a Upwork meeting
+  SCHEDULED: <2023-12-16 Sar>
+
+
+| Name | Age | Occupation |
+|------|-----|------------|
+| John | 19  | Writer     |
+| Paul | 50  | Convert    |
+
